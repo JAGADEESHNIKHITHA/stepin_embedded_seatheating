@@ -16,11 +16,11 @@ and if the passanger exist then our system starts the functionality.
 
 ## Code Inspector Badges
 
-![](https://www.code-inspector.com/project/28718/score/svg)<br />![](https://www.code-inspector.com/project/28718/status/svg)
+![](https://www.code-inspector.com/project/29081/score/svg)<br />![](https://www.code-inspector.com/project/28718/status/svg)
 
 ## Git Codacy Badge
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a4737762c5b146f3b3c0cabe8c71334d)](https://www.codacy.com/gh/sanjaynetagal/Stepin_Passanger_Seat_and_Heat_Monitoring_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sanjaynetagal/Stepin_Passanger_Seat_and_Heat_Monitoring_System&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9b1a0a9b57a140b0b93dc756c81a17cb)](https://www.codacy.com/gh/JAGADEESHNIKHITHA/stepin_embedded_seatheating/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JAGADEESHNIKHITHA/stepin_embedded_seatheating&amp;utm_campaign=Badge_Grade)
 
 ## Other Badges
 
