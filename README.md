@@ -26,7 +26,7 @@ and if the passanger exist then our system starts the functionality.
 
 | Compile Linux | Cpp Check |
 | ----------- | ----------- |
-[![Compile-Linux](https://github.com/JAGADEESHNIKHITHA/stepin_embedded_seatheating/actions/workflows/compile.yml/badge.svg)](https://github.com/JAGADEESHNIKHITHA/stepin_embedded_seatheating/actions/workflows/compile.yml)|
+[![Compile-Linux](https://github.com/JAGADEESHNIKHITHA/stepin_embedded_seatheating/actions/workflows/compile.yml/badge.svg)](https://github.com/JAGADEESHNIKHITHA/stepin_embedded_seatheating/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/JAGADEESHNIKHITHA/stepin_embedded_seatheating/actions/workflows/codequality.yml/badge.svg)](https://github.com/JAGADEESHNIKHITHA/stepin_embedded_seatheating/actions/workflows/codequality.yml)|
 
 ## Contributors List and Summary
 |PS no. |  Name   |    Features    |
